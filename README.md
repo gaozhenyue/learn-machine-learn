@@ -1,2 +1,2 @@
 # learn-machine-learn
-the programm of some  machine learning methods
+note the programm of some  machine learning methods
